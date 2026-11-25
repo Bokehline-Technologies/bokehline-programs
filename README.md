@@ -2,7 +2,7 @@
 
 A program management dashboard for a portfolio of new-product launches. It shows status, schedule, gate reviews, risks, actions and budget, built with Python, Streamlit and SQLite.
 
-- **Live demo:** _coming soon_
+- **Live demo:** https://bokehline-programs.streamlit.app
 - **Companion project:** [Bokehline Ops](https://github.com/Bokehline-Technologies/bokehline-ops), the plant operations dashboard and data-entry app
 
 > All data is fictional. Bokehline Technologies is the author's own company name. The customers, people, programs and figures were made up for this demo.
